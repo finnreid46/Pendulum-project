@@ -1,3 +1,6 @@
+
+#draft idea written with ai 
+
 import numpy as np
 import wave
 
@@ -63,6 +66,3 @@ def sonify_pendulum(t, x, y, sample_rate=44100,
 
     return left, right
 
-# --- Example usage (replace with your arrays) ---
-# left, right = sonify_pendulum(t, x, y)
-# save_wav_stereo("pendulum.wav", left, right)

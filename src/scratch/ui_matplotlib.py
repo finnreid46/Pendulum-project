@@ -62,7 +62,7 @@ def main():
         line_theta.set_data(t, theta)
         line_E.set_data(t, E)
 
-        # keep x-range consistent with new t length
+        # keep x-range consistent with new data
         ax1.set_xlim(t[0], t[-1])
         ax2.set_xlim(t[0], t[-1])
 
