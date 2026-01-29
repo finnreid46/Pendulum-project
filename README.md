@@ -21,14 +21,10 @@ python -m venv .venv
 pip install -r requirements.txt
 
 
-```md
-# run
-```bash
+## run
+
 python main.py
 
-```md
-```md
-"Project Structure"
 
 ## Project Structure
 ```text
