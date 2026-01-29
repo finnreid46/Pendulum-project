@@ -46,7 +46,7 @@ def main():
     ax_anim.set_ylabel("y")
     ax_anim.set_title("2D Animation")
 
-    # --- sliders (same idea as your existing UI) ---
+    # --- sliders ---
     ax_L = plt.axes([0.12, 0.25, 0.76, 0.03])
     ax_th0 = plt.axes([0.12, 0.20, 0.76, 0.03])
     ax_dt = plt.axes([0.12, 0.15, 0.76, 0.03])
