@@ -13,7 +13,8 @@ A small Python project to simulate and visualise pendulum motion using numerical
 ## Requirements
 - Python >= 3.11
 
-```md
+## Setup
+
 ### Windows (PowerShell)
 ```powershell
 python -m venv .venv
@@ -31,6 +32,6 @@ python main.py
 main.py                      # entry point
 src/core.py                  # model + numerical solver (RK4)
 src/ui_matplotlib_anim2d.py  # animation UI
-assets/                      # images / demo media (if present)
+assets/                      # images / demo media 
 
 
