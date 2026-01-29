@@ -11,7 +11,7 @@ A small Python project to simulate and visualise pendulum motion using numerical
 - Modular structure (`src/`)
 
 ## Requirements
-- Python 3.11< 
+- Python >= 3.11
 
 ```md
 ## Setup
