@@ -3,7 +3,7 @@
 ->Example output showing the animated pendulum and accompanying time-series plots.
 
 
-A small Python project to simulate and visualise pendulum motion using numerical methods and Matplotlib animation - to be upscaled in further models.  
+A small Python project to simulate and visualise pendulum motion using numerical methods and Matplotlib animation - to be upscaled in further models. - (**3d model still in progress**)  
 
 ## Features
 - Pendulum dynamics simulation
