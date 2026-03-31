@@ -5,6 +5,8 @@
 
 A small Python project to simulate and visualise pendulum motion using numerical methods and Matplotlib animation - to be upscaled in further models. - (**3d model still in progress**)  
 
+![3D pendulum animation with fixed values](assets/spherical_pendulum.gif)
+
 ## Features
 - Pendulum dynamics simulation
 - 2D animation using Matplotlib
