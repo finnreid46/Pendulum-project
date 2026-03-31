@@ -27,5 +27,4 @@ dist/
 
 # Matplotlib / outputs - tbd
 *.mp4
-*.gif
 *.png
